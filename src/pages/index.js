@@ -1,8 +1,9 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
+import { Link } from "gatsby";
 
 import Layout from "../components/layout"
 import Image from "../components/image"
+import NewImage from "../components/newImage"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
@@ -19,7 +20,11 @@ const IndexPage = () => (
     <Link to="/page-2/">Go to page 2</Link> <br />
     <Link to="/greg/">Go to Greg's page</Link> <br />
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+    <img src="https://source.unsplash.com/random" alt="" />
+        <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+            <NewImage />
+        </div>
   </Layout>
 )
 
-export default IndexPage
+export default GregPage
