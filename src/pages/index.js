@@ -29,4 +29,4 @@ const IndexPage = () => (
   </Layout>
 )
 
-export default GregPage
+export default IndexPage
