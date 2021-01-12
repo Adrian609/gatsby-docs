@@ -5,7 +5,7 @@ import Img from "../components/img"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const SecondPage = () => (
+const ChrisPage = () => (
   <Layout>
     <SEO title="Page two" />
     <h1>Chris's Page</h1>
@@ -17,4 +17,4 @@ const SecondPage = () => (
   </Layout>
 )
 
-export default SecondPage
+export default ChrisPage
