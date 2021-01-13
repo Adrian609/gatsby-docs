@@ -16,7 +16,11 @@ const IndexPage = () => (
       <Image />
     </div>
     <Link to="/about/">About Page</Link> <br />
+<<<<<<< Updated upstream
     <Link to="/thomas/">Thomas's Page</Link> <br />
+=======
+    <Link to="/adrian/">Adrian Page</Link> <br />
+>>>>>>> Stashed changes
     <Link to="/page-2/">Go to page 2</Link> <br />
     <Link to="/greg/">Go to Greg's page</Link> <br />
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
