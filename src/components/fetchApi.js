@@ -24,7 +24,7 @@ export default class FetchApi extends React.Component {
 
     return (
       <div>
-          <hr></hr>
+        <hr></hr>
         <h1>{this.state.person.name.title} {this.state.person.name.first} {this.state.person.name.last}</h1>
         <img src={this.state.person.picture.large} />
         <div>Gender: {this.state.person.gender}</div>
