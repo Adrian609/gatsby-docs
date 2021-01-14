@@ -5,6 +5,10 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import GetFortune from "../components/getfortune"
 
+
+import ReactDOM from 'react-dom';
+
+
 const FortunePage = () => (
   <Layout>
     <SEO title="Get Fortune" />
