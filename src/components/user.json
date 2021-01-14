@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Joice", "last": "Freitas" },
+      "location": {
+        "street": { "number": 2181, "name": "Rua Quinze de Novembro " },
+        "city": "Crato",
+        "state": "Rondônia",
+        "country": "Brazil",
+        "postcode": 16377,
+        "coordinates": { "latitude": "-70.8237", "longitude": "120.0427" },
+        "timezone": {
+          "offset": "-7:00",
+          "description": "Mountain Time (US & Canada)"
+        }
+      },
+      "email": "joice.freitas@example.com",
+      "login": {
+        "uuid": "77b2394d-1bb8-490f-973a-860e1cae81e7",
+        "username": "redleopard466",
+        "password": "cirrus",
+        "salt": "UTHKa0vB",
+        "md5": "4352a219a255119e665c7e71bb8ee07b",
+        "sha1": "70c2e739f103c3cb38ffaf1b5b820fedcc3225bb",
+        "sha256": "e767c20cfb4d7ffd08bab8fbeda99b6a0183efbba841640f2c01cad15435327e"
+      },
+      "dob": { "date": "1947-08-30T20:13:18.966Z", "age": 74 },
+      "registered": { "date": "2017-12-10T20:52:45.100Z", "age": 4 },
+      "phone": "(86) 9508-4878",
+      "cell": "(11) 5490-9059",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/8.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+      },
+      "nat": "BR"
+    }
+  ],
+  "info": {
+    "seed": "3fa04180a198f1f3",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
