@@ -26,7 +26,6 @@ export default class PuppyApi extends React.Component {
             <div>
                 <hr></hr>
                 <img src={this.state.puppy.message} />
-                <div>"status": {this.state.puppy.status}</div>
             </div>
         )
     }
